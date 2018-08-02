@@ -42,12 +42,19 @@ fi
 ################################################
 echo "Sign in request"
 sleep 1.5
+# Login to get auth token
+# TODO Replace into myuser variable, value "@" for "%40"
+# TODO Replace USER and PASS into file "form_req.data" with values myuser & mypass
+curl -d "@form_req.data" --dump-header response-headers https://www.packtpub.com/
+# There must be a file created with name "response-headers"
 
-# 1.A If everything goes well, save token into PDF_TOKEN
+# 1.A If everything goes well (TODO first line in response-headers contains "HTTP/1.1 302 Found"), continues
 
 # 1.B If fails, prints received message and ends with error
 
 # 2. Make the claim PDF request with token PDF_TOKEN
+# Replaces cookie values  "SESS_live", "access_token_live" & "refresh_token_live" into file my-ebooks-headers.data
+curl -d "@my-ebooks-headers.data" -POST https://www.packtpub.com/account/my-ebooks
 
 # 2.A If succeeded then save local PDF file and ends with success
 

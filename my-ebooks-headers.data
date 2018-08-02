@@ -1,0 +1,36 @@
+GET /account/my-ebooks HTTP/1.1
+Host: www.packtpub.com
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Referer: https://www.packtpub.com/account/my-ebooks
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cookie: <COOKIE_VALUE>
+Cookie:
+__has_js=1;
+_ga=GA1.2.162758583.1533210447;
+_gid=GA1.2.2146395104.1533210447;
+cto_lwid=9bf7e84f-f597-43ff-93de-048c4ee48555;
+_gu=d8438b9e-ef64-4155-bc34-bdca667f8f15;
+__hstc=200028081.30db8556ee87a874137a4f2bfb55adb8.1533210447124.1533210447124.1533210447124.1;
+__hssrc=1;
+hubspotutk=30db8556ee87a874137a4f2bfb55adb8;
+wingify_donot_track_actions=0;
+cookieconsent_status=dismiss;
+wingify_push_subscriber_id=1fb5725b2979c2372bcddf267b9bcec9;
+wingify_push_db_status=true;
+wingify_push_subscription_status=subscribed;
+wingify_push_subscriber_lang=en-GB;
+wingify_push_subscription_id=eRFoEzSyptg:APA91bEpKixZfSDNYPE3wSsmGExNNFBCAmWJIxA0hIR7RNjl9W636Iv8fANMcwff0odOyxBSqkX-Ykc09GzH2z-9F5ONgWRKURDPdBtIe-xka_kWFtgNVzxwYH64wWWKIIute_dvT-kbl5iKTdRISXF_2Yp-wO4gug;
+wingify_push_subscription_endpoint=https://android.googleapis.com/gcm/send;
+access_token_live=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1MDQzZGM5Yi1kYTAxLTQ1YWMtYjc3Ny0xMjY0NzEzYjliOTMiLCJ1c2VybmFtZSI6Imlyb2RyaS50ZWx2ZW50QGdtYWlsLmNvbSIsInBlcm1pc3Npb25zIjpbXSwiaWF0IjoxNTMzMjEwNDkyLCJleHAiOjE1MzMyMTQwOTJ9.eevN0blP_9sGNaq8XZHtk3jxJLISkhGTshVLVWJ2EDXt-XWYzTFyT_nli12QHVpXMo-bxroNBfq8a8tOy1vtw6g3957KVOpJyRIn3f3yvfroc6F2oEHKe0lB6vpWzjMFP5_OJegsJxAC1RU_fjIRvx-zbFfVv6FSz59JXcWW1Tj8tQ-Cg0iWl8piZL8cSQBfqa64ngMjG30dg8bqviMUVdrheOXSAqhNAciRj6Fuqp6hbDUlkmYEP4tVIssEvM3owH1tSRu3oxy_PPeUMxzQN9_spexswv2EKSiNSht_Q5ie3jax-gj28FDRFYuDhg48XCp2nrGPErFhdI4taYIC1g;
+refresh_token_live=91bf558024ccb5f9c0d05ec743d4f91b4a13a3475012e78b3362f783b31c68a3;
+SESS_live=nkskd68e9o0jqlso071k1tdcp0;
+_gs=2.s(src=https://www.packtpub.com/)c[Desktop,Chrome,39:4270:5489:,Mac OS,62.165.150.43];
+host_select=app6;
+mmapi.store.p.0=%7B%22mmparams.p%22%3A%7B%22pd%22%3A%221564748136694%7C%5C%22-1168111334%7CDQAAAApVAwAvEgzdhxBSliQ1MDQzZGM5Yi1kYTAxLTQ1YWMtYjc3Ny0xMjY0NzEzYjliOTMBEQABQtJCpN8BACcbdadx%2BNVIlBV8t2341UgAAAAA%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8ABkRpcmVjdAGHEAEAAAAAAAAAAABh6wEAYesBAGHrAQACAKXeAABcgh3YcYcQAP%2F%2F%2F%2F8BhxCHEP%2F%2FBgAAAQAAAAABUDYCAN7QAgAAjOQAADrIGpTVhxAA%2F%2F%2F%2F%2FwGHEIcQ%2F%2F8DAAABAAAAAAFMRAIAueICAAAAAAAAAAFF%5C%22%22%2C%22srv%22%3A%221564748136700%7C%5C%22fravwcgeu09%5C%22%22%7D%2C%22mmparams.d%22%3A%7B%7D%7D;
+mmapi.store.s.0=%7B%22mmparams.p%22%3A%7B%22ids%22%3A%220%7C%7B%5C%221%5C%22%3A%5C%225043dc9b-da01-45ac-b777-1264713b9b93%5C%22%7D%22%7D%2C%22mmparams.d%22%3A%7B%7D%7D;
+_gw=2.u[~0,~0,~0,~0,~0]v[~f7p8f,~6,~0]a();
+_hssc=200028081.6.1533210447125
